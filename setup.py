@@ -6,7 +6,7 @@ from setuptools import find_packages, setup
 setup(
     name="compute-fabric-operations",
     version="0.1.0",
-    description="数据中心调度与能源分析、调度与现场机组巡检分析准入服务",
+    description="数据中心调度与能源分析、加速卡准入分析与核燃料循环批次监管服务",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
     package_dir={"": "src"},
